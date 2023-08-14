@@ -1,9 +1,9 @@
-# OIBSIP-Task-1-Landing_Page
+# RESPONSIVE-Landing_Page
 
 This is a simple landing page project created using HTML and CSS. It serves as a template for a basic landing page layout that you can customize and use for your own purposes.
 
 ## Link
----: https://lakshayrao2301.github.io/OIBSIP-Task-1-Landing_Page/
+---: https://lakshayrao2301.github.io/PRODIGY_WD_01/
 
 ## Features
 * Responsive design: The landing page is designed to be responsive and adapt to different screen sizes, ensuring a consistent user experience across devices.
